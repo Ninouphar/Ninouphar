@@ -1,3 +1,3 @@
 Well, hello !
 
-I am a French 42 student !
+I am a French 42 student.
